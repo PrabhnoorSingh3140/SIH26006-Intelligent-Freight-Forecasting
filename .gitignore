@@ -1,0 +1,13 @@
+venv/
+.venv/
+node_modules/
+dist/
+build/
+__pycache__/
+*.pyc
+.env
+.env.local
+.DS_Store
+.ipynb_checkpoints/
+*.log
+backend/data/maritime_ai_training_1m.csv
